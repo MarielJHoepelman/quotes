@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.2.9",
+    "html-webpack-plugin": "^5.5.0",
+    "marked": "^4.0.12",
+    "path": "^0.12.7"
+  }
+}
